@@ -1,5 +1,5 @@
 # CryptoPals
-This repo contains solutions to the [CryptoPals](https://cryptopals.com/) challenges.
+This repo contains solutions to the [CryptoPals](https://cryptopals.com/) cryptography challenges.
 
 ---
 
